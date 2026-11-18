@@ -1,27 +1,97 @@
-# 💫 About Me:
-Hi, I'm Shashank Singh 👋<br>I’m a passionate AI Engineer focused on building intelligent systems that solve real-world problems.<br><br>🤖 Currently learning and working with Artificial Intelligence & Machine Learning<br>📊 Interested in ML,DL, NLP, and Generative AI<br>🧠 Building projects like RAG (Retrieval-Augmented Generation), AI Chatbots, and Data Apps<br>🚀 Exploring tools like Python, Pandas, LangChain, Streamlit, and Hugging Face<br>💡 Love turning ideas into real AI applications
+# 👋 Hi, I'm Shashank Singh
 
+### AI Engineer | Machine Learning | Generative AI | Agentic AI
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arcnova.mrk7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shashank-singh-77717a338) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shashanks72754791@gmail.com) 
+I build intelligent applications that combine machine learning, large language models, and software engineering to solve real-world problems.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shashank7275&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shashank7275&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank7275&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Currently focused on developing practical AI systems, exploring modern AI architectures, and turning research concepts into production-oriented applications.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shashank7275&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shashank7275&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🤖 Exploring **Generative AI, Agentic AI, and LLM Applications**
+- 🧠 Working with **Machine Learning, Deep Learning, NLP, and RAG**
+- 🔍 Building **AI Agents, RAG Systems, and AutoML Applications**
+- ⚙️ Interested in **AI Engineering, Backend Development, and MLOps**
+- 🌱 Continuously learning and improving my engineering skills
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shashank7275&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Technical Skills
+
+**Programming Languages**
+
+- Python, SQL
+
+**AI & Machine Learning**
+
+- Machine Learning, Deep Learning, NLP
+- Scikit-learn, TensorFlow, PyTorch, Keras
+- Feature Engineering, Model Evaluation, Data Preprocessing
+
+**Generative AI & LLM Engineering**
+
+- LLMs, Prompt Engineering, RAG
+- LangChain, Hugging Face
+- Embeddings, Vector Search, AI Agents
+
+**Data Science**
+
+- NumPy, Pandas, Matplotlib
+- Exploratory Data Analysis (EDA)
+- Data Visualization and Statistical Analysis
+
+**Backend & Deployment**
+
+- FastAPI, Flask, Streamlit
+- MySQL, Supabase, PostgreSQL
+- Git, GitHub, Render, Vercel
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Agentic AutoML System
+
+An AI-powered machine learning workflow designed to automate data analysis, preprocessing, model selection, and model evaluation.
+
+**Tech:** Python, Streamlit, Scikit-learn, Pandas
+
+### 2. RAG Research Assistant
+
+A document-based AI assistant that uses retrieval-augmented generation to retrieve relevant information and generate context-aware responses.
+
+**Tech:** Python, LangChain, Gemini, Vector Database
+
+### 3. AI Code Assistant
+
+An AI-powered application designed to assist developers with programming questions and code-related tasks.
+
+**Tech:** Python, LLMs, Streamlit
+
+### 4. Sentiment Analysis System
+
+A machine learning and deep learning application for classifying text sentiment using different neural network architectures.
+
+**Tech:** Python, NLP, Scikit-learn, TensorFlow
+
+---
+
+## 📊 GitHub Analytics
+
+\<p align="center">   \<img src="[https://github-readme-stats.vercel.app/api?username=Shashank7275&show_icons=true&theme=github_dark&hide_border=true](https://github-readme-stats.vercel.app/api?username=Shashank7275\&show_icons=true\&theme=github_dark\&hide_border=true)" height="165"/>   \<img src="[https://github-readme-streak-stats.herokuapp.com/?user=Shashank7275&theme=github-dark-blue&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=Shashank7275\&theme=github-dark-blue\&hide_border=true)" height="165"/> \</p>
+
+\<p align="center">   \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank7275&layout=compact&theme=github_dark&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank7275\&layout=compact\&theme=github_dark\&hide_border=true)"/> \</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: [https://www.linkedin.com/in/shashank-singh-77717a338/](https://www.linkedin.com/in/shashank-singh-77717a338/)
+- 📸 Instagram: [https://instagram.com/arcnova.mrk7](https://instagram.com/arcnova.mrk7)
+- 📧 Email: [shashanks72754791@gmail.com](mailto\:shashanks72754791@gmail.com)
+
+---
+
+### 💡 Engineering Philosophy
+
+> Don't just learn AI. Build, experiment, deploy, and solve real-world problems with it.
+
+**Always learning. Always building. Always improving.** 🚀
